@@ -1,0 +1,24 @@
+# CP Master Bot - Requirements
+
+# Telegram Bot
+python-telegram-bot==20.7
+
+# Async HTTP requests
+aiohttp==3.9.1
+
+# Database
+# SQLite3 is included in Python standard library
+
+# Environment variables
+python-dotenv==1.0.0
+
+# Date and time utilities
+python-dateutil==2.8.2
+
+# Optional: For better async support
+asyncio==3.4.3
+python-telegram-bot[job-queue]==20.7
+apscheduler
+requests
+beautifulsoup4
+aiohttp
